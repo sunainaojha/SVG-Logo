@@ -29,9 +29,11 @@ This is a command-line application that allows freelance web developers to gener
 
 
 ## Links 
-[Github](https://github.com/sunainaojha/Portfolio)
+[Github] (https://github.com/sunainaojha/SVG-Logo)
 
 [Demonstration video link](https://watch.screencastify.com/v/z24wzqRB1tvb295xACWH)
+
+
 
 
 
